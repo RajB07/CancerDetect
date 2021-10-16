@@ -4,8 +4,6 @@ Team : Kadir Diwan | Rajeev Bandi | Arfah Upade
 
 Project : Detection of Cancer using Genome Profiles
 
-Reference : git link of the Github repo we referred
-
 For Web Application Code, please refer repository: https://github.com/ArfahUpade/the-bug-squashers-CancerDetect
 
 [data1.csv](https://github.com/diwan-kadir/CancerDetect/files/6565741/data1.csv)
